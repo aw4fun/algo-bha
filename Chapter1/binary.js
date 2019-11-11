@@ -21,7 +21,7 @@ function binarySearch(list, point) {
         low = mid + 1;
       }
     }
-
+  return 'search is failed!';
   }
 }
 
